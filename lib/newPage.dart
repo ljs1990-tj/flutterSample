@@ -29,6 +29,7 @@ class _NewPageState extends State<NewPage> {
       appBar: AppBar(
         title: Text('회원가입 목록'),
       ),
+      // git Test Text
       body: (userList == null)
           ? Center(child: CircularProgressIndicator())
           : ListView.builder(
