@@ -27,7 +27,7 @@ class _NewPageState extends State<NewPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('회원가입 목록'),
+        title: Text('회원가입 ㅋㅋ'),
       ),
       // git Test Text
       body: (userList == null)
